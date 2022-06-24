@@ -100,3 +100,7 @@ The curl command was not found in the system (in windows 10 and above it comes o
 * SpotX will only work correctly on the latest versions of Spotify, please make sure of this before asking a question.  
 * The modifiable files are replaced by the Spotify installer every time it is updated, so you will need to apply the patch again when this happens.
 * [SpotX will be installed even if you are using Spicetify](https://github.com/amd64fox/SpotX/discussions/28#discussioncomment-2389043), but you may need to run Install.bat again after running the `spicetify apply` or other commands.
+
+ ## Credits:
+
+The original author of the script is [amd64fox](https://github.com/amd64fox "amd64fox").
